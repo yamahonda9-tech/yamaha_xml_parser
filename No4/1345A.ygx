@@ -1,0 +1,658 @@
+<?xml version="1.0"?>
+<PcbDataFile>
+<LastEditing Date="2026/08/27" Time="22:41:34" VersionNo="2">
+	<SetupMachine No=" 1" Name="MACHINE" ID="444"/>
+</LastEditing>
+<Machine No=" 1" MachineType="40" SubMachineType="5" Version="VGOS V4.77STD R2.000">
+	<Property LastEditingDate="2026/08/27" LastEditingTime="22:41:34" VersionNo="2"/>
+	<Production>
+		<ProductGroup No="1" Lane="1"/>
+	</Production>
+	<Board>
+		<Board_000 OriginX="-228.000" OriginY="  10.000" SizeX=" 238.000" SizeY=" 162.000" BlockCount="  6" SizeZ="1.600" PcbWarpHeight="0" TransOffsetU="0.000" TransOffsetT1="0.000" TransOffsetT2="0.000" BoardStandardCT=" 0.00" BoardStandardPlanTime="    0" CarriedPosCheck="0" CarriedPosCheckValue=" 0.0" CarriedPosCheckDetail="0" CarriedPosCheckMark="  0" CarriedPosCheckMarkX="   0.000" CarriedPosCheckMarkY="   0.000" BoardEdgeOffsetDistanceLowerLeft="   0.000" BoardEdgeOffsetDistanceLowerRight="   0.000" BoardEdgeOffsetDistanceUpperLeft="   0.000" BoardEdgeOffsetDistanceUpperRight="   0.000" MountStagePosition="0"/>
+		<Board_001 ImageName=""/>
+		<Board_101 PcbFixWay="1" ConvPreFixTimer="   0.500" TransHeight="15" ConvTimer="   0.000" YSpeed="2" TransMode="0" ConvSpeed="0" PartHeight=" 1.7" ConvTransWay="0" TransferOneByOne="0"/>
+		<Board_102 MountExec="0" VacCheck="0" Alignment="0" CoPlanarity="0" PrePick="1" RetrySeq="1" SkipRetry="0" PositionFreeSetup="0" TrayPre="0" FixedComp="0" Correct3A="0" InterfereAvoidance="0" MountSequenceMethod="0"/>
+		<Board_103 BadSortA="0" BadSortB="0" BadSortC="0"/>
+		<Board_104 Comment="300045_V1.00_REV.B"/>
+		<Board_105 PreDisp="1" DotDisp="1" DotCheck="0" Refresh="0" PosCorDisp="1" PosCorPreDisp="0"/>
+		<Board_106 SpecialFunction="0"/>
+		<Board_107 PushUpPinSetupManagement="0" BackupTypeName="1345A"/>
+		<Board_108 HeadA1="2" HeadA2="3" HeadA3="1" HeadA4="1" HeadA5="1" HeadA6="0" HeadA7="0" HeadA8="0" HeadA9="0" HeadA10="0" HeadA11="0" HeadA12="0" HeadA13="0" HeadA14="0" HeadA15="0" HeadA16="0"/>
+		<Board_109 HeadB1="0" HeadB2="0" HeadB3="0" HeadB4="0" HeadB5="0" HeadB6="0" HeadB7="0" HeadB8="0" HeadB9="0" HeadB10="0" HeadB11="0" HeadB12="0" HeadB13="0" HeadB14="0" HeadB15="0" HeadB16="0"/>
+		<Board_110 TempControlA1="0" TempControlA2="0" TempControlA3="0" TempControlA4="0" TempControlA5="0" TempControlA6="0" TempControlA7="0" TempControlA8="0"/>
+		<Board_111 TargetTempA1="  0" TargetTempA2="  0" TargetTempA3="  0" TargetTempA4="  0" TargetTempA5="  0" TargetTempA6="  0" TargetTempA7="  0" TargetTempA8="  0"/>
+	</Board>
+	<Fiducial>
+		<FidUse Pcb="0" Blk="2" Local="1"/>
+		<PcbFid          X1="   2.000" Y1="  -5.000" Mark1="  1" X2=" 211.001" Y2=" 147.000" Mark2="  0"/>
+		<BlkFid          X1="  15.002" Y1="  59.500" Mark1="  1" X2="  61.001" Y2="  20.000" Mark2="  0"/>
+		<LclFid No="  1" X1="  15.002" Y1="  59.500" Mark1="  1" X2="  61.001" Y2="  20.000" Mark2="  0" Type="0" Skip="0" Comment="Block" OrgBlk="  1"/>
+		<LclFid No="  2" X1="  91.016" Y1="  59.500" Mark1="  1" X2=" 137.015" Y2="  20.000" Mark2="  0" Type="0" Skip="0" Comment="Block" OrgBlk="  2"/>
+		<LclFid No="  3" X1=" 167.030" Y1="  59.500" Mark1="  1" X2=" 213.029" Y2="  20.000" Mark2="  0" Type="0" Skip="0" Comment="Block" OrgBlk="  3"/>
+		<LclFid No="  4" X1="  15.002" Y1=" 135.499" Mark1="  1" X2="  61.001" Y2="  95.999" Mark2="  0" Type="0" Skip="0" Comment="Block" OrgBlk="  4"/>
+		<LclFid No="  5" X1="  91.016" Y1=" 135.499" Mark1="  1" X2=" 137.015" Y2="  95.999" Mark2="  0" Type="0" Skip="0" Comment="Block" OrgBlk="  5"/>
+		<LclFid No="  6" X1=" 167.030" Y1=" 135.499" Mark1="  1" X2=" 213.029" Y2="  95.999" Mark2="  0" Type="0" Skip="0" Comment="Block" OrgBlk="  6"/>
+	</Fiducial>
+	<BadMark>
+		<BadUse Pcb="1" Blk="2" Local="1"/>
+		<PcbBad          X="   0.000" Y="   0.000" Mark="  1"/>
+		<BlkBad          X="  12.489" Y="  27.859" Mark="  2"/>
+		<LclBad No="  1" X="  12.489" Y="  27.859" Mark="  2" Skip="0" Comment="Block" OrgBlk="  1" View=" -1"/>
+		<LclBad No="  2" X="  88.503" Y="  27.859" Mark="  2" Skip="0" Comment="Block" OrgBlk="  2" View=" -1"/>
+		<LclBad No="  3" X=" 164.517" Y="  27.859" Mark="  2" Skip="0" Comment="Block" OrgBlk="  3" View=" -1"/>
+		<LclBad No="  4" X="  12.489" Y=" 103.858" Mark="  2" Skip="0" Comment="Block" OrgBlk="  4" View=" -1"/>
+		<LclBad No="  5" X="  88.503" Y=" 103.858" Mark="  2" Skip="0" Comment="Block" OrgBlk="  5" View=" -1"/>
+		<LclBad No="  6" X=" 164.517" Y=" 103.858" Mark="  2" Skip="0" Comment="Block" OrgBlk="  6" View=" -1"/>
+	</BadMark>
+	<Offset>
+		<Repeat No="  1" X="   0.000" Y="   0.000" R="   0.000" Exec="0" Comment="dummy_org" OrgBlk="  0" UnitNo="  0"/>
+		<Repeat No="  2" X="   0.000" Y="   0.000" R="   0.000" Exec="2" Comment="" OrgBlk="  1" UnitNo="  0"/>
+		<Repeat No="  3" X="  76.014" Y="   0.000" R="   0.000" Exec="2" Comment="" OrgBlk="  2" UnitNo="  0"/>
+		<Repeat No="  4" X=" 152.028" Y="   0.000" R="   0.000" Exec="2" Comment="" OrgBlk="  3" UnitNo="  0"/>
+		<Repeat No="  5" X="   0.000" Y="  75.999" R="   0.000" Exec="2" Comment="" OrgBlk="  4" UnitNo="  0"/>
+		<Repeat No="  6" X="  76.014" Y="  75.999" R="   0.000" Exec="2" Comment="" OrgBlk="  5" UnitNo="  0"/>
+		<Repeat No="  7" X=" 152.028" Y="  75.999" R="   0.000" Exec="2" Comment="" OrgBlk="  6" UnitNo="  0"/>
+	</Offset>
+	<Mounts>
+		<Mount No="    1" X=" 175.845" Y=" 114.856" R=" 270.000" Fid="  6" Bad="  6" Comp="   7" Group="    0" Opt="103" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D1" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    2" X=" 126.497" Y="  97.940" R=" 270.000" Fid="  5" Bad="  5" Comp="   8" Group="    0" Opt="  2" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U8" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    3" X=" 186.869" Y=" 124.000" R="   0.000" Fid="  6" Bad="  6" Comp="   7" Group="    0" Opt="  4" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D3" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    4" X=" 190.095" Y="  98.422" R=" 180.000" Fid="  6" Bad="  6" Comp="   5" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="U4" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    5" X=" 114.081" Y="  22.423" R=" 180.000" Fid="  2" Bad="  2" Comp="   5" Group="    1" Opt="103" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="U4" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    6" X="  23.817" Y="  38.857" R=" 270.000" Fid="  1" Bad="  1" Comp="   7" Group="    1" Opt="  4" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D1" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    7" X="  50.483" Y="  21.941" R=" 270.000" Fid="  1" Bad="  1" Comp="   8" Group="    1" Opt="  2" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U8" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    8" X="  51.706" Y="  38.933" R="   0.000" Fid="  1" Bad="  1" Comp="   6" Group="    1" Opt="  1" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="Y1" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="    9" X=" 175.845" Y="  38.857" R=" 270.000" Fid="  3" Bad="  3" Comp="   7" Group="    2" Opt="103" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D1" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   10" X=" 126.497" Y="  21.941" R=" 270.000" Fid="  2" Bad="  2" Comp="   8" Group="    2" Opt="  2" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U8" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   11" X=" 186.869" Y="  48.001" R="   0.000" Fid="  3" Bad="  3" Comp="   7" Group="    2" Opt="  4" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D3" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   12" X=" 190.095" Y="  22.423" R=" 180.000" Fid="  3" Bad="  3" Comp="   5" Group="    2" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="U4" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   13" X="  99.831" Y=" 114.856" R=" 270.000" Fid="  5" Bad="  5" Comp="   7" Group="    3" Opt="103" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D1" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   14" X="  50.483" Y="  97.940" R=" 270.000" Fid="  4" Bad="  4" Comp="   8" Group="    3" Opt="  4" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U8" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   15" X="  51.706" Y=" 114.932" R="   0.000" Fid="  4" Bad="  4" Comp="   6" Group="    3" Opt="  2" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="Y1" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   16" X="  48.430" Y=" 133.830" R="   0.000" Fid="  4" Bad="  4" Comp="   1" Group="    3" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="L9" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   17" X="  99.831" Y="  38.857" R=" 270.000" Fid="  2" Bad="  2" Comp="   7" Group="    4" Opt="103" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D1" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   18" X=" 202.511" Y="  97.940" R=" 270.000" Fid="  6" Bad="  6" Comp="   8" Group="    4" Opt="  2" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U8" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   19" X=" 110.855" Y="  48.001" R="   0.000" Fid="  2" Bad="  2" Comp="   7" Group="    4" Opt="  4" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D3" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   20" X=" 200.458" Y=" 133.830" R="   0.000" Fid="  6" Bad="  6" Comp="   1" Group="    4" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="L9" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   21" X=" 202.511" Y="  21.941" R=" 270.000" Fid="  3" Bad="  3" Comp="   8" Group="    5" Opt="104" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U8" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   22" X=" 127.720" Y="  38.933" R="   0.000" Fid="  2" Bad="  2" Comp="   6" Group="    5" Opt="  3" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="Y1" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   23" X="  57.663" Y="  48.827" R="   0.000" Fid="  1" Bad="  1" Comp="   3" Group="    5" Opt="  2" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U6" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   24" X=" 124.444" Y="  57.831" R="   0.000" Fid="  2" Bad="  2" Comp="   1" Group="    5" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="L9" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   25" X="  34.841" Y=" 124.000" R="   0.000" Fid="  4" Bad="  4" Comp="   7" Group="    6" Opt="103" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D3" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   26" X="  23.817" Y=" 114.856" R=" 270.000" Fid="  4" Bad="  4" Comp="   7" Group="    6" Opt="  2" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D1" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   27" X=" 110.855" Y=" 124.000" R="   0.000" Fid="  5" Bad="  5" Comp="   7" Group="    6" Opt="  4" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D3" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   28" X=" 114.081" Y="  98.422" R=" 180.000" Fid="  5" Bad="  5" Comp="   5" Group="    6" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="U4" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   29" X="  57.663" Y=" 124.826" R="   0.000" Fid="  4" Bad="  4" Comp="   3" Group="    7" Opt="103" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U6" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   30" X=" 127.720" Y=" 114.932" R="   0.000" Fid="  5" Bad="  5" Comp="   6" Group="    7" Opt="  2" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="Y1" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   31" X=" 133.677" Y=" 124.826" R="   0.000" Fid="  5" Bad="  5" Comp="   3" Group="    7" Opt="  1" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U6" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   32" X=" 124.444" Y=" 133.830" R="   0.000" Fid="  5" Bad="  5" Comp="   1" Group="    7" Opt="  4" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="L9" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   33" X="  34.841" Y="  48.001" R="   0.000" Fid="  1" Bad="  1" Comp="   7" Group="    8" Opt="104" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="D3" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   34" X=" 203.734" Y=" 114.932" R="   0.000" Fid="  6" Bad="  6" Comp="   6" Group="    8" Opt="  1" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="Y1" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   35" X=" 209.691" Y=" 124.826" R="   0.000" Fid="  6" Bad="  6" Comp="   3" Group="    8" Opt="  2" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U6" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   36" X="  48.430" Y="  57.831" R="   0.000" Fid="  1" Bad="  1" Comp="   1" Group="    8" Opt="  3" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="L9" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   37" X=" 133.677" Y="  48.827" R="   0.000" Fid="  2" Bad="  2" Comp="   3" Group="    9" Opt="103" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U6" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   38" X=" 203.734" Y="  38.933" R="   0.000" Fid="  3" Bad="  3" Comp="   6" Group="    9" Opt="  2" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="Y1" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   39" X=" 209.691" Y="  48.827" R="   0.000" Fid="  3" Bad="  3" Comp="   3" Group="    9" Opt="  1" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="U6" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   40" X=" 200.458" Y="  57.831" R="   0.000" Fid="  3" Bad="  3" Comp="   1" Group="    9" Opt="  4" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="L9" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   41" X="  38.067" Y="  22.423" R=" 180.000" Fid="  1" Bad="  1" Comp="   5" Group="   10" Opt="101" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="U4" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   42" X="  38.067" Y="  98.422" R=" 180.000" Fid="  4" Bad="  4" Comp="   5" Group="   11" Opt="101" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  2" Exec="0" Comment="U4" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   43" X="  12.489" Y="  27.859" R="  90.000" Fid="  1" Bad="  1" Comp="   4" Group="   12" Opt="101" Opt2=" 1" Head=" 2" PickRod="   0" MountRod="   0" Nozzle="  3" Exec="0" Comment="U11" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   44" X="  12.489" Y=" 103.858" R="  90.000" Fid="  4" Bad="  4" Comp="   4" Group="   13" Opt="101" Opt2=" 1" Head=" 2" PickRod="   0" MountRod="   0" Nozzle="  3" Exec="0" Comment="U11" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   45" X="  88.503" Y="  27.859" R="  90.000" Fid="  2" Bad="  2" Comp="   4" Group="   14" Opt="101" Opt2=" 1" Head=" 2" PickRod="   0" MountRod="   0" Nozzle="  3" Exec="0" Comment="U11" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   46" X="  88.503" Y=" 103.858" R="  90.000" Fid="  5" Bad="  5" Comp="   4" Group="   15" Opt="101" Opt2=" 1" Head=" 2" PickRod="   0" MountRod="   0" Nozzle="  3" Exec="0" Comment="U11" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   47" X=" 164.517" Y="  27.859" R="  90.000" Fid="  3" Bad="  3" Comp="   4" Group="   16" Opt="101" Opt2=" 1" Head=" 2" PickRod="   0" MountRod="   0" Nozzle="  3" Exec="0" Comment="U11" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   48" X=" 164.517" Y=" 103.858" R="  90.000" Fid="  6" Bad="  6" Comp="   4" Group="   17" Opt="101" Opt2=" 1" Head=" 2" PickRod="   0" MountRod="   0" Nozzle="  3" Exec="0" Comment="U11" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   49" X="  58.256" Y="  39.568" R="  90.000" Fid="  1" Bad="  1" Comp="   2" Group="   18" Opt="103" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="P1" OrgBlk="  1" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   50" X=" 134.270" Y="  39.568" R="  90.000" Fid="  2" Bad="  2" Comp="   2" Group="   18" Opt="  2" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="P1" OrgBlk="  2" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   51" X=" 210.284" Y="  39.568" R="  90.000" Fid="  3" Bad="  3" Comp="   2" Group="   18" Opt="  1" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="P1" OrgBlk="  3" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   52" X="  58.256" Y=" 115.567" R="  90.000" Fid="  4" Bad="  4" Comp="   2" Group="   19" Opt="103" Opt2=" 1" Head=" 5" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="P1" OrgBlk="  4" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   53" X=" 134.270" Y=" 115.567" R="  90.000" Fid="  5" Bad="  5" Comp="   2" Group="   19" Opt="  2" Opt2=" 1" Head=" 4" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="P1" OrgBlk="  5" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   54" X=" 210.284" Y=" 115.567" R="  90.000" Fid="  6" Bad="  6" Comp="   2" Group="   19" Opt="  1" Opt2=" 1" Head=" 3" PickRod="   0" MountRod="   0" Nozzle="  1" Exec="0" Comment="P1" OrgBlk="  6" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   55" X="  48.430" Y="  57.831" R="   0.000" Fid="  0" Bad="  0" Comp="   1" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="L9" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   56" X="  58.256" Y="  39.568" R="  90.000" Fid="  0" Bad="  0" Comp="   2" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="P1" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   57" X="  57.663" Y="  48.827" R="   0.000" Fid="  0" Bad="  0" Comp="   3" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="U6" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   58" X="  12.489" Y="  27.859" R="  90.000" Fid="  0" Bad="  0" Comp="   4" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="U11" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   59" X="  38.067" Y="  22.423" R=" 180.000" Fid="  0" Bad="  0" Comp="   5" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="U4" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   60" X="  51.706" Y="  38.933" R="   0.000" Fid="  0" Bad="  0" Comp="   6" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="Y1" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   61" X="  23.817" Y="  38.857" R=" 270.000" Fid="  0" Bad="  0" Comp="   7" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="D1" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   62" X="  34.841" Y="  48.001" R="   0.000" Fid="  0" Bad="  0" Comp="   7" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="D3" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+		<Mount No="   63" X="  50.483" Y="  21.941" R=" 270.000" Fid="  0" Bad="  0" Comp="   8" Group="    0" Opt="  1" Opt2=" 1" Head=" 1" PickRod="   0" MountRod="   0" Nozzle="  0" Exec="2" Comment="U8" OrgBlk="  0" MaskDX="   0.000" MaskDY="   0.000" SeqOrder="   -1" GroupID="    0" GrpOrder="    0" CodeScan="  0" MntStage="    1" UnitNo="  0"/>
+	</Mounts>
+	<Programs>
+		<Program>
+			<Commands>
+			</Commands>
+			<LocalPoints>
+			</LocalPoints>
+			<Watches>
+			</Watches>
+		</Program>
+	</Programs>
+	<GlobalPoints>
+	</GlobalPoints>
+	<PreDispenses>
+	</PreDispenses>
+	<DotDispenses>
+	</DotDispenses>
+	<PosCorDispenses>
+	</PosCorDispenses>
+	<Parts>
+		<Part No="1">
+			<Part_001 PartsName="ESL0002-108697" Comment="L:MPL-SE6040-3R3" DatabaseNo="16078" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="12" Package="0" FdrType="4" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_062 Algorithm="2" BaseVType="19" Option1="0" Option2="0" Option3="0" Option4="0"/>
+			<Part_003 Setno="47" Definition="2" XPos="   -0.205" YPos="    0.199" FdrIdxStep="3" FdrIdxSpeed="0" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="2" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_016 BodyX="   6.000" BodyY="   6.000" BodyZ="   3.900" OffsetX="   0.000" OffsetY="   0.000" OffsetR="   0.000" MoldX="   6.000" MoldY="   6.000" MoldZ="   2.700"/>
+			<Part_018 PackSizeX="   6.000" PackSizeY="   6.000" PackOffsetX="   0.000" PackOffsetY="   0.000" PolMark="0" PolMarkPos="0"/>
+			<Part_022 RlrWidth="3"/>
+			<Part_032 LeadNumW="0"/>
+			<Part_044 RlrOffsetN="0" LeadGroupN="1"/>
+			<Part_045 RlrOffsetS="0" LeadGroupS="1"/>
+			<Part_046 RlrOffsetE="0" LeadGroupE="0"/>
+			<Part_047 RlrOffsetW="0" LeadGroupW="0"/>
+			<Part_048 LeadNumN1="1" LeadPitchN1="   0.000" LeadWidthN1="   3.800" LeadLengthN1="   1.800" LeadPosXN1="   0.000" LeadPosYN1="   1.900"/>
+			<Part_049 LeadNumN2="0" LeadPitchN2="   0.000" LeadWidthN2="   0.000" LeadLengthN2="   0.000" LeadPosXN2="   0.000" LeadPosYN2="   0.000"/>
+			<Part_050 LeadNumS1="1" LeadPitchS1="   0.000" LeadWidthS1="   3.800" LeadLengthS1="   1.800" LeadPosXS1="   0.000" LeadPosYS1="  -1.900"/>
+			<Part_051 LeadNumS2="0" LeadPitchS2="   0.000" LeadWidthS2="   0.000" LeadLengthS2="   0.000" LeadPosXS2="   0.000" LeadPosYS2="   0.000"/>
+			<Part_052 LeadNumE1="0" LeadPitchE1="   0.000" LeadWidthE1="   0.000" LeadLengthE1="   0.000" LeadPosXE1="   0.000" LeadPosYE1="   0.000"/>
+			<Part_053 LeadNumE2="0" LeadPitchE2="   0.000" LeadWidthE2="   0.000" LeadLengthE2="   0.000" LeadPosXE2="   0.000" LeadPosYE2="   0.000"/>
+			<Part_054 LeadNumW1="0" LeadPitchW1="   0.000" LeadWidthW1="   0.000" LeadLengthW1="   0.000" LeadPosXW1="   0.000" LeadPosYW1="   0.000"/>
+			<Part_055 LeadNumW2="0" LeadPitchW2="   0.000" LeadWidthW2="   0.000" LeadLengthW2="   0.000" LeadPosXW2="   0.000" LeadPosYW2="   0.000"/>
+			<Part_070 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="0" Threshold="120" Tolerance="40" SearchArea="   3.500" DatumAngle="0" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_072 LightSetting="0" LightLevel="6"/>
+			<Part_074 CoplaLevel="0" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="3" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="21" NozzleEx="21" XYSpeed="2" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="0" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="1" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.300" PckTimer="0.20" PckSpeed="2" PckVLevel="30" PckSingleDir="0" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 0.000"/>
+			<Part_083 MntHeight=" 0.200" MntTimer="0.00" MntSpeed="2" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="0" Pck2ndSrvUp="0"/>
+			<Part_301 Mnt2ndSrvDown="0" Mnt2ndSrvUp="0"/>
+			<Part_302 PckForceExist="0" PckForceTarget="0.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="0.00"/>
+			<Part_200 DspCType="16" DNozzle="1" Dtimer="40" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   0.000" DYpt="   0.000" DXtime="1" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="0.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<Electrodes>
+				<Electrode No="   1" Direction="   0.00" XPos="   0.000" YPos="   1.900" Name=""/>
+				<Electrode No="   2" Direction=" 180.00" XPos="   0.000" YPos="  -1.900" Name=""/>
+			</Electrodes>
+			<AutoTchCondition LocationCond=" 15.00" LandAreaDiff=" 0.00"/>
+		</Part>
+		<Part No="2">
+			<Part_001 PartsName="ESX1006-039983" Comment="ST:0533980671" DatabaseNo="3687" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="16" Package="0" FdrType="5" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_003 Setno="54" Definition="2" XPos="   -0.002" YPos="    0.055" FdrIdxStep="3" FdrIdxSpeed="9" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="4" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_016 BodyX="   4.200" BodyY="  12.650" BodyZ="   4.700" OffsetX="   0.000" OffsetY="   0.000" OffsetR="   0.000" MoldX="   1.700" MoldY="   3.300" MoldZ="   0.400"/>
+			<Part_018 PackSizeX="   3.700" PackSizeY="  12.650" PackOffsetY="   0.000" PolMark="0" PolMarkPos="0"/>
+			<Part_022 RlrWidth="3"/>
+			<Part_038 RlrOffsetE="3" LeadNumE="6" LeadPitchE="   1.250" LeadWidthE="   0.250" LeadLengthE="   0.800"/>
+			<Part_070 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="1" Threshold="120" Tolerance="30" SearchArea="   5.000" DatumAngle="0" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_072 LightSetting="0" LightLevel="4"/>
+			<Part_074 CoplaLevel="0" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="1" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="3" NozzleEx="3" XYSpeed="9" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="4" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="1" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.300" PckTimer="0.15" PckSpeed="9" PckVLevel="30" PckSingleDir="1" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 3.000"/>
+			<Part_083 MntHeight=" 0.300" MntTimer="0.20" MntSpeed="9" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="2" Pck2ndSrvUp="2"/>
+			<Part_301 Mnt2ndSrvDown="2" Mnt2ndSrvUp="2"/>
+			<Part_302 PckForceExist="0" PckForceTarget="1.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="1.00"/>
+			<Part_200 DspCType="3" DNozzle="0" Dtimer="0" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   0.000" DYpt="   0.000" DXtime="1" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="1.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<Electrodes>
+				<Electrode No="   1" Direction="  90.00" XPos="   2.100" YPos="   3.125" Name=""/>
+				<Electrode No="   2" Direction="  90.00" XPos="   2.100" YPos="   1.875" Name=""/>
+				<Electrode No="   3" Direction="  90.00" XPos="   2.100" YPos="   0.625" Name=""/>
+				<Electrode No="   4" Direction="  90.00" XPos="   2.100" YPos="  -0.625" Name=""/>
+				<Electrode No="   5" Direction="  90.00" XPos="   2.100" YPos="  -1.875" Name=""/>
+				<Electrode No="   6" Direction="  90.00" XPos="   2.100" YPos="  -3.125" Name=""/>
+			</Electrodes>
+		</Part>
+		<Part No="3">
+			<Part_001 PartsName="ESWZ012-091923" Comment="IC-LGA12:MC3479" DatabaseNo="5483" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="4" Package="0" FdrType="2" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_003 Setno="1" Definition="0" XPos=" -856.667" YPos="    0.651" FdrIdxStep="1" FdrIdxSpeed="9" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="2" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_012 BodyX="   1.900" BodyY="   2.000" BodyZ="   0.943" MoldX="   0.000" MoldY="   0.000" MoldZ="   0.000"/>
+			<Part_018 PackSizeX="   0.000" PackSizeY="   0.000" PackOffsetX="   0.000" PackOffsetY="   0.000" PolMark="1" PolMarkPos="4"/>
+			<Part_028 RlrOffsetE="2" RlrWidth="3" LeadNumE="4" LeadPitchE="   0.500" LeadWidthE="   0.250" LeadLengthE="   0.300"/>
+			<Part_070 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="0" Threshold="120" Tolerance="30" SearchArea="   1.500" DatumAngle="0" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_072 LightSetting="0" LightLevel="6"/>
+			<Part_074 CoplaLevel="0" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="1" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="2" NozzleEx="2" XYSpeed="2" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="6" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="1" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.200" PckTimer="0.15" PckSpeed="2" PckVLevel="30" PckSingleDir="0" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 0.000"/>
+			<Part_083 MntHeight=" 0.200" MntTimer="0.00" MntSpeed="2" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="0" Pck2ndSrvUp="0"/>
+			<Part_301 Mnt2ndSrvDown="0" Mnt2ndSrvUp="0"/>
+			<Part_302 PckForceExist="0" PckForceTarget="0.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="0.00"/>
+			<Part_200 DspCType="2" DNozzle="0" Dtimer="0" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   0.000" DYpt="   0.000" DXtime="1" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="0.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<Electrodes>
+				<Electrode No="   1" Direction="   0.00" XPos="   0.250" YPos="   1.000" Name=""/>
+				<Electrode No="   2" Direction="   0.00" XPos="  -0.250" YPos="   1.000" Name=""/>
+				<Electrode No="   3" Direction=" 180.00" XPos="   0.250" YPos="  -1.000" Name=""/>
+				<Electrode No="   4" Direction=" 180.00" XPos="  -0.250" YPos="  -1.000" Name=""/>
+				<Electrode No="   5" Direction="  90.00" XPos="   1.000" YPos="   0.750" Name=""/>
+				<Electrode No="   6" Direction="  90.00" XPos="   1.000" YPos="   0.250" Name=""/>
+				<Electrode No="   7" Direction="  90.00" XPos="   1.000" YPos="  -0.250" Name=""/>
+				<Electrode No="   8" Direction="  90.00" XPos="   1.000" YPos="  -0.750" Name=""/>
+				<Electrode No="   9" Direction=" 270.00" XPos="  -1.000" YPos="   0.750" Name=""/>
+				<Electrode No="  10" Direction=" 270.00" XPos="  -1.000" YPos="   0.250" Name=""/>
+				<Electrode No="  11" Direction=" 270.00" XPos="  -1.000" YPos="  -0.250" Name=""/>
+				<Electrode No="  12" Direction=" 270.00" XPos="  -1.000" YPos="  -0.750" Name=""/>
+			</Electrodes>
+			<AutoTchCondition LocationCond=" 15.00" LandAreaDiff=" 0.00"/>
+		</Part>
+		<Part No="4">
+			<Part_001 PartsName="ESDZ028-112566" Comment="IC-LGA28:LC76GABMD" DatabaseNo="18144" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="18" Package="0" FdrType="5" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_003 Setno="51" Definition="2" XPos="   -0.005" YPos="    0.317" FdrIdxStep="4" FdrIdxSpeed="3" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="3" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_016 BodyX="   9.700" BodyY="   9.600" BodyZ="   2.400" OffsetX="   0.000" OffsetY="   0.000" OffsetR="   0.000" MoldX="  10.000" MoldY="   6.500" MoldZ="   3.600"/>
+			<Part_018 PackSizeX="   9.700" PackSizeY="  10.100" PackOffsetX="   0.000" PackOffsetY="   0.000" PolMark="1" PolMarkPos="4"/>
+			<Part_022 RlrWidth="3"/>
+			<Part_040 RlrOffsetN="2" LeadNumN="5" LeadPitchN="   1.100" LeadWidthN="   0.800" LeadLengthN="   0.800" OffLeadStartN="0" OffLeadEndN="0"/>
+			<Part_041 RlrOffsetS="2" LeadNumS="5" LeadPitchS="   1.100" LeadWidthS="   0.800" LeadLengthS="   0.800" OffLeadStartS="0" OffLeadEndS="0"/>
+			<Part_042 RlrOffsetE="2" LeadNumE="9" LeadPitchE="   1.100" LeadWidthE="   0.800" LeadLengthE="   0.870" OffLeadStartE="0" OffLeadEndE="0"/>
+			<Part_043 RlrOffsetW="2" LeadNumW="9" LeadPitchW="   1.100" LeadWidthW="   0.800" LeadLengthW="   0.870" OffLeadStartW="0" OffLeadEndW="0"/>
+			<Part_064 Recognition="0"/>
+			<Part_070 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="0" Threshold="120" Tolerance="30" SearchArea="   3.000" DatumAngle="0" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_078 LightSetting="0" LightLevel="6" AllLightOn="0" ExcPinCheck="0"/>
+			<Part_074 CoplaLevel="0" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="3" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="12" NozzleEx="12" XYSpeed="4" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="0" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="1" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.200" PckTimer="0.10" PckSpeed="4" PckVLevel="30" PckSingleDir="0" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 0.000"/>
+			<Part_083 MntHeight=" 0.200" MntTimer="0.10" MntSpeed="4" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="0" Pck2ndSrvUp="0"/>
+			<Part_301 Mnt2ndSrvDown="0" Mnt2ndSrvUp="0"/>
+			<Part_302 PckForceExist="0" PckForceTarget="0.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="0.00"/>
+			<Part_200 DspCType="16" DNozzle="1" Dtimer="40" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   6.000" DYpt="   4.500" DXtime="2" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="0.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<ExLeads>
+				<ExLead No="1" ExLeadMode="1" ExLeadNum="5" ExLeadLength="0.800" ExLeadPitch="1.100" ExLeadWidth="0.800" ExLeadPosX="0.000" ExLeadPosY="0.000" ExLeadDir="0.000" ExLeadRlrType="0" ExLeadPositioning="0" ExLeadInspection="0" ExLeadOption="0" ExLeadThreshold="0" ExLeadNoiseBlank="0" ExLeadNoiseCut="0" ExLeadRlrOffset="0.000" ExLeadSearchArea="0.000" ExLeadWidthTolerance="0.000" ExLeadLengthTolerance="0.000" ExLeadPitchTolerance="0.000"/>
+				<ExLead No="2" ExLeadMode="1" ExLeadNum="5" ExLeadLength="0.800" ExLeadPitch="1.100" ExLeadWidth="0.800" ExLeadPosX="0.000" ExLeadPosY="-0.000" ExLeadDir="180.000" ExLeadRlrType="0" ExLeadPositioning="0" ExLeadInspection="0" ExLeadOption="0" ExLeadThreshold="0" ExLeadNoiseBlank="0" ExLeadNoiseCut="0" ExLeadRlrOffset="0.000" ExLeadSearchArea="0.000" ExLeadWidthTolerance="0.000" ExLeadLengthTolerance="0.000" ExLeadPitchTolerance="0.000"/>
+				<ExLead No="3" ExLeadMode="1" ExLeadNum="9" ExLeadLength="0.870" ExLeadPitch="1.100" ExLeadWidth="0.800" ExLeadPosX="4.900" ExLeadPosY="3.810" ExLeadDir="90.000" ExLeadRlrType="0" ExLeadPositioning="0" ExLeadInspection="0" ExLeadOption="0" ExLeadThreshold="0" ExLeadNoiseBlank="0" ExLeadNoiseCut="0" ExLeadRlrOffset="0.000" ExLeadSearchArea="0.000" ExLeadWidthTolerance="0.000" ExLeadLengthTolerance="0.000" ExLeadPitchTolerance="0.000"/>
+				<ExLead No="4" ExLeadMode="1" ExLeadNum="9" ExLeadLength="0.870" ExLeadPitch="1.100" ExLeadWidth="0.800" ExLeadPosX="-4.900" ExLeadPosY="3.810" ExLeadDir="270.000" ExLeadRlrType="0" ExLeadPositioning="0" ExLeadInspection="0" ExLeadOption="0" ExLeadThreshold="0" ExLeadNoiseBlank="0" ExLeadNoiseCut="0" ExLeadRlrOffset="0.000" ExLeadSearchArea="0.000" ExLeadWidthTolerance="0.000" ExLeadLengthTolerance="0.000" ExLeadPitchTolerance="0.000"/>
+			</ExLeads>
+			<Electrodes>
+				<Electrode No="   1" Direction="   0.00" XPos="  -2.200" YPos="   4.400" Name=""/>
+				<Electrode No="   2" Direction="   0.00" XPos="  -1.100" YPos="   4.400" Name=""/>
+				<Electrode No="   3" Direction="   0.00" XPos="   0.000" YPos="   4.400" Name=""/>
+				<Electrode No="   4" Direction="   0.00" XPos="   1.100" YPos="   4.400" Name=""/>
+				<Electrode No="   5" Direction="   0.00" XPos="   2.200" YPos="   4.400" Name=""/>
+				<Electrode No="   6" Direction=" 180.00" XPos="  -2.200" YPos="  -4.400" Name=""/>
+				<Electrode No="   7" Direction=" 180.00" XPos="  -1.100" YPos="  -4.400" Name=""/>
+				<Electrode No="   8" Direction=" 180.00" XPos="   0.000" YPos="  -4.400" Name=""/>
+				<Electrode No="   9" Direction=" 180.00" XPos="   1.100" YPos="  -4.400" Name=""/>
+				<Electrode No="  10" Direction=" 180.00" XPos="   2.200" YPos="  -4.400" Name=""/>
+				<Electrode No="  11" Direction="  90.00" XPos="   4.850" YPos="   4.400" Name=""/>
+				<Electrode No="  12" Direction="  90.00" XPos="   4.850" YPos="   3.300" Name=""/>
+				<Electrode No="  13" Direction="  90.00" XPos="   4.850" YPos="   2.200" Name=""/>
+				<Electrode No="  14" Direction="  90.00" XPos="   4.850" YPos="   1.100" Name=""/>
+				<Electrode No="  15" Direction="  90.00" XPos="   4.850" YPos="   0.000" Name=""/>
+				<Electrode No="  16" Direction="  90.00" XPos="   4.850" YPos="  -1.100" Name=""/>
+				<Electrode No="  17" Direction="  90.00" XPos="   4.850" YPos="  -2.200" Name=""/>
+				<Electrode No="  18" Direction="  90.00" XPos="   4.850" YPos="  -3.300" Name=""/>
+				<Electrode No="  19" Direction="  90.00" XPos="   4.850" YPos="  -4.400" Name=""/>
+				<Electrode No="  20" Direction=" 270.00" XPos="  -4.850" YPos="   4.400" Name=""/>
+				<Electrode No="  21" Direction=" 270.00" XPos="  -4.850" YPos="   3.300" Name=""/>
+				<Electrode No="  22" Direction=" 270.00" XPos="  -4.850" YPos="   2.200" Name=""/>
+				<Electrode No="  23" Direction=" 270.00" XPos="  -4.850" YPos="   1.100" Name=""/>
+				<Electrode No="  24" Direction=" 270.00" XPos="  -4.850" YPos="   0.000" Name=""/>
+				<Electrode No="  25" Direction=" 270.00" XPos="  -4.850" YPos="  -1.100" Name=""/>
+				<Electrode No="  26" Direction=" 270.00" XPos="  -4.850" YPos="  -2.200" Name=""/>
+				<Electrode No="  27" Direction=" 270.00" XPos="  -4.850" YPos="  -3.300" Name=""/>
+				<Electrode No="  28" Direction=" 270.00" XPos="  -4.850" YPos="  -4.400" Name=""/>
+			</Electrodes>
+			<AutoTchCondition LocationCond=" 15.00" LandAreaDiff=" 0.00"/>
+		</Part>
+		<Part No="5">
+			<Part_001 PartsName="KSD1008-091960" Comment="IC-SO8:W25Q64JVSSIQ" DatabaseNo="5268" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="4" Package="0" FdrType="4" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_003 Setno="49" Definition="0" XPos=" -205.510" YPos="    0.597" FdrIdxStep="3" FdrIdxSpeed="0" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="2" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_012 BodyX="   7.950" BodyY="   5.210" BodyZ="   1.970" MoldX="   7.950" MoldY="   5.210" MoldZ="   1.870"/>
+			<Part_018 PackSizeX="   5.400" PackSizeY="   5.210" PackOffsetX="   0.000" PackOffsetY="   0.000" PolMark="1" PolMarkPos="4"/>
+			<Part_028 RlrOffsetE="2" RlrWidth="3" LeadNumE="4" LeadPitchE="   1.270" LeadWidthE="   0.440" LeadLengthE="   0.600"/>
+			<Part_070 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="0" Threshold="120" Tolerance="30" SearchArea="   3.000" DatumAngle="0" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_072 LightSetting="0" LightLevel="6"/>
+			<Part_074 CoplaLevel="16" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="1" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="21" NozzleEx="21" XYSpeed="0" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="0" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="3" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.200" PckTimer="0.00" PckSpeed="0" PckVLevel="30" PckSingleDir="0" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 0.000"/>
+			<Part_083 MntHeight=" 0.200" MntTimer="0.00" MntSpeed="0" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="0" Pck2ndSrvUp="0"/>
+			<Part_301 Mnt2ndSrvDown="0" Mnt2ndSrvUp="0"/>
+			<Part_302 PckForceExist="0" PckForceTarget="0.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="0.00"/>
+			<Part_200 DspCType="16" DNozzle="1" Dtimer="35" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   3.950" DYpt="   3.210" DXtime="1" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="0.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<Electrodes>
+				<Electrode No="   1" Direction="  90.00" XPos="   3.975" YPos="   1.905" Name=""/>
+				<Electrode No="   2" Direction="  90.00" XPos="   3.975" YPos="   0.635" Name=""/>
+				<Electrode No="   3" Direction="  90.00" XPos="   3.975" YPos="  -0.635" Name=""/>
+				<Electrode No="   4" Direction="  90.00" XPos="   3.975" YPos="  -1.905" Name=""/>
+				<Electrode No="   5" Direction=" 270.00" XPos="  -3.975" YPos="   1.905" Name=""/>
+				<Electrode No="   6" Direction=" 270.00" XPos="  -3.975" YPos="   0.635" Name=""/>
+				<Electrode No="   7" Direction=" 270.00" XPos="  -3.975" YPos="  -0.635" Name=""/>
+				<Electrode No="   8" Direction=" 270.00" XPos="  -3.975" YPos="  -1.905" Name=""/>
+			</Electrodes>
+			<AutoTchCondition LocationCond=" 15.00" LandAreaDiff=" 0.00"/>
+		</Part>
+		<Part No="6">
+			<Part_001 PartsName="KSG0002-091925" Comment="Q-FC135:32.768KHZ" DatabaseNo="5274" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="7" Package="0" FdrType="3" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_062 Algorithm="0" BaseVType="0" Option1="0" Option2="-122" Option3="0" Option4="0"/>
+			<Part_003 Setno="133" Definition="0" XPos=" -542.559" YPos=" 1105.474" FdrIdxStep="1" FdrIdxSpeed="5" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="2" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_013 BodyX="   1.600" BodyY="   3.200" BodyZ="   1.100" MoldX="   1.600" MoldY="   3.200" MoldZ="   2.000" Thicknesschk="0"/>
+			<Part_018 PolMark="0" PolMarkPos="0"/>
+			<Part_021 RlrOffset="2"/>
+			<Part_071 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="0" Threshold="120" Tolerance="30" SearchArea="   1.500" DatumAngle="0" CompIntensity="134" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_072 LightSetting="0" LightLevel="7"/>
+			<Part_074 CoplaLevel="0" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="3" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="3" NozzleEx="3" XYSpeed="2" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="0" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="1" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.200" PckTimer="0.00" PckSpeed="2" PckVLevel="30" PckSingleDir="0" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 0.000"/>
+			<Part_083 MntHeight=" 0.200" MntTimer="0.00" MntSpeed="2" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="0" Pck2ndSrvUp="0"/>
+			<Part_301 Mnt2ndSrvDown="0" Mnt2ndSrvUp="0"/>
+			<Part_302 PckForceExist="0" PckForceTarget="0.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="0.00"/>
+			<Part_200 DspCType="3" DNozzle="1" Dtimer="0" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   0.000" DYpt="   0.000" DXtime="1" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="0.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<Electrodes>
+				<Electrode No="   1" Direction="   0.00" XPos="   0.000" YPos="   1.600" Name=""/>
+				<Electrode No="   2" Direction=" 180.00" XPos="   0.000" YPos="  -1.600" Name=""/>
+			</Electrodes>
+		</Part>
+		<Part No="7">
+			<Part_001 PartsName="ESV8002-007254" Comment="D-SMA:S1M" DatabaseNo="1507" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="8" Package="0" FdrType="2" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_003 Setno="135" Definition="2" XPos="   -0.000" YPos="    0.201" FdrIdxStep="1" FdrIdxSpeed="0" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="2" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_012 BodyX="   2.300" BodyY="   4.800" BodyZ="   2.100" MoldX="   2.600" MoldY="   5.200" MoldZ="   2.100"/>
+			<Part_018 PackSizeY="   0.000" PackOffsetY="   0.000" PolMark="1" PolMarkPos="1"/>
+			<Part_025 RlrOffset="5" RlrWidth="3" LeadWidth="   1.450" LeadLength="   1.140"/>
+			<Part_070 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="0" Threshold="120" Tolerance="30" SearchArea="   3.000" DatumAngle="0" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_072 LightSetting="0" LightLevel="6"/>
+			<Part_074 CoplaLevel="0" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="3" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="1" NozzleEx="1" XYSpeed="0" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="0" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="3" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.200" PckTimer="0.00" PckSpeed="0" PckVLevel="30" PckSingleDir="0" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 0.000"/>
+			<Part_083 MntHeight=" 0.200" MntTimer="0.00" MntSpeed="0" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="0" Pck2ndSrvUp="0"/>
+			<Part_301 Mnt2ndSrvDown="0" Mnt2ndSrvUp="0"/>
+			<Part_302 PckForceExist="0" PckForceTarget="0.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="0.00"/>
+			<Part_200 DspCType="4" DNozzle="1" Dtimer="35" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   0.000" DYpt="   0.000" DXtime="1" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="0.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<Electrodes>
+				<Electrode No="   1" Direction="   0.00" XPos="   0.000" YPos="   2.400" Name=""/>
+				<Electrode No="   2" Direction=" 180.00" XPos="   0.000" YPos="  -2.400" Name=""/>
+			</Electrodes>
+		</Part>
+		<Part No="8">
+			<Part_001 PartsName="ESDI022-091922" Comment="IC-QFN22:SKY66112-11" DatabaseNo="5482" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Part_002 ShapeType="5" Package="0" FdrType="2" CarrierTape="0" ReelDiameter="0" BitFlags="1"/>
+			<Part_003 Setno="3" Definition="0" XPos=" -832.667" YPos="    0.651" FdrIdxStep="2" FdrIdxSpeed="0" FdrIdxSpeedEx="0" FeederTimerOffset=" 0.0" TapeEndDetection="0" FeederKnotSkip="0" FeederKnotSpeed="0" Optimize="0" PartsGroupNo="2" FixCmp="0" SwFdr="0" PitchEffect="1" Correct3A="0" UnitNo="0" PickPosCheck="0" PickToleranceX="0.000" PickToleranceY="0.000" PickToleranceR="0.000" PickToleranceOffsetX="0.000" PickToleranceOffsetY="0.000" BoardDataTuning="1" ToleranceTuning="0"/>
+			<Part_004 FreeSpace1="" FreeSpace2=""/>
+			<Part_012 BodyX="   3.000" BodyY="   3.500" BodyZ="   1.000" MoldX="   3.150" MoldY="   3.150" MoldZ="   0.800"/>
+			<Part_018 PackSizeX="   3.000" PackSizeY="   3.500" PackOffsetX="   0.000" PackOffsetY="   0.000" PolMark="1" PolMarkPos="4"/>
+			<Part_029 LeadNumN="4"/>
+			<Part_031 LeadNumE="5"/>
+			<Part_027 RlrOffset="3" RlrWidth="3" LeadPitch="   0.500" LeadWidth="   0.300" LeadLength="   0.400" BumpMask="0"/>
+			<Part_070 Alignment="0" AlignRefSubMlt="1" AlignRefSubSgl="1" AlignRefSubScan="1" AutoThreshold="0" Threshold="160" Tolerance="30" SearchArea="   2.500" DatumAngle="0" MultiMACS="0" OffsetRec="0" RecognitionOffsetZ="0.000"/>
+			<Part_072 LightSetting="0" LightLevel="6"/>
+			<Part_074 CoplaLevel="0" CoplaThreshold="0"/>
+			<Part_076 LightMode="0" MainLightLevel="3" CoaxsLightLevel="3" SideLightLevel="0"/>
+			<Part_310 DDDExecPass="3" DDDThreNmlCam="70" DDDThreSlantCam="70" DDDLightCoaxNmlCam="9" DDDLightCoaxSlantCam="4" DDDLightMainSlantCam="3" DDDLightSideSlantCam="4" DDDBrightAreaNmlCam="100" DDDBrightAreaSlantCam="25" DDDPermitTol="0" DDDHeightCheck="0.00"/>
+			<Part_080 Nozzle="3" NozzleEx="3" XYSpeed="0" RSpeed="0" ConvYSpeed="3" RotaryRoundSpeed="0" FdrAngle="0" VacChk="1" CorrectPos="0" Action="0" PickStart="0" Dump="0" Retry="1" CorrectPosAuto="0"/>
+			<Part_081 PckHeight=" 0.200" PckTimer="0.00" PckSpeed="0" PckVLevel="30" PckSingleDir="0" PckCtrlDown="0" PckCtrlUp="0" NozzleTouchHeight=" 0.000"/>
+			<Part_083 MntHeight=" 0.200" MntTimer="0.00" MntSpeed="0" MntPLevel="30" MntSingleDir="0" MntCtrlDown="0" MntCtrlUp="0" MntInsertLength="0.000" MntInsertShortDistance="0.000" MntPressInLength="0.000"/>
+			<Part_300 Pck2ndSrvDown="0" Pck2ndSrvUp="0"/>
+			<Part_301 Mnt2ndSrvDown="0" Mnt2ndSrvUp="0"/>
+			<Part_302 PckForceExist="0" PckForceTarget="0.00"/>
+			<Part_303 MntForceExist="0" MntForceTarget="0.00"/>
+			<Part_200 DspCType="4" DNozzle="0" Dtimer="0" DXpos="   0.000" DYpos="   0.000" DspAngle="0" DXpt="   0.000" DYpt="   0.000" DXtime="1" DYtime="1"/>
+			<Part_500 Category="0" DipAct="0" StampAct="0" Marking="0"/>
+			<Part_501 Option1StationNo="0" Option1WaitVision="0" Option1DownSequenceAir="0" Option12ndSrvDown="0" Option1DownSpeed="30" Option1LowendHeight=" 0.000" Option1LowendTimer="0.00" Option1UpSequenceAir="0" Option12ndSrvUp="0" Option1UpSpeed="30"/>
+			<Part_502 Option1ForceExist="0" Option1ForceTarget="0.00"/>
+			<Part_620 LCRCheckerCheckUse="0" LCRCheckerMountAngle="1" LCRCheckerMeasureStandard="   0.000" LCRCheckerMeasureUnit="0" LCRCheckerMeasureUpperLimit="10" LCRCheckerMeasureLowerLimit="10"/>
+			<Part_520 SVUse="0" SVBringBack="0" SVBodyLimit="0.000" SVReverseCheck="0"/>
+			<ExLights>
+				<ExLightMode Use="0"/>
+				<ExLight No="1" ExLightLevel="0"/>
+				<ExLight No="2" ExLightLevel="0"/>
+				<ExLight No="3" ExLightLevel="0"/>
+				<ExLight No="4" ExLightLevel="0"/>
+				<ExLight No="5" ExLightLevel="0"/>
+				<ExLight No="6" ExLightLevel="0"/>
+				<ExLight No="7" ExLightLevel="0"/>
+				<ExLight No="8" ExLightLevel="0"/>
+				<ExLight No="9" ExLightLevel="0"/>
+				<ExLight No="10" ExLightLevel="0"/>
+				<ExLight No="11" ExLightLevel="0"/>
+				<ExLight No="12" ExLightLevel="0"/>
+				<ExLight No="13" ExLightLevel="0"/>
+				<ExLight No="14" ExLightLevel="0"/>
+				<ExLight No="15" ExLightLevel="0"/>
+				<ExLight No="16" ExLightLevel="0"/>
+			</ExLights>
+			<Electrodes>
+				<Electrode No="   1" Direction="   0.00" XPos="   0.750" YPos="   1.750" Name=""/>
+				<Electrode No="   2" Direction="   0.00" XPos="   0.250" YPos="   1.750" Name=""/>
+				<Electrode No="   3" Direction="   0.00" XPos="  -0.250" YPos="   1.750" Name=""/>
+				<Electrode No="   4" Direction="   0.00" XPos="  -0.750" YPos="   1.750" Name=""/>
+				<Electrode No="   5" Direction=" 180.00" XPos="   0.750" YPos="  -1.750" Name=""/>
+				<Electrode No="   6" Direction=" 180.00" XPos="   0.250" YPos="  -1.750" Name=""/>
+				<Electrode No="   7" Direction=" 180.00" XPos="  -0.250" YPos="  -1.750" Name=""/>
+				<Electrode No="   8" Direction=" 180.00" XPos="  -0.750" YPos="  -1.750" Name=""/>
+				<Electrode No="   9" Direction="  90.00" XPos="   1.500" YPos="   1.000" Name=""/>
+				<Electrode No="  10" Direction="  90.00" XPos="   1.500" YPos="   0.500" Name=""/>
+				<Electrode No="  11" Direction="  90.00" XPos="   1.500" YPos="   0.000" Name=""/>
+				<Electrode No="  12" Direction="  90.00" XPos="   1.500" YPos="  -0.500" Name=""/>
+				<Electrode No="  13" Direction="  90.00" XPos="   1.500" YPos="  -1.000" Name=""/>
+				<Electrode No="  14" Direction=" 270.00" XPos="  -1.500" YPos="   1.000" Name=""/>
+				<Electrode No="  15" Direction=" 270.00" XPos="  -1.500" YPos="   0.500" Name=""/>
+				<Electrode No="  16" Direction=" 270.00" XPos="  -1.500" YPos="   0.000" Name=""/>
+				<Electrode No="  17" Direction=" 270.00" XPos="  -1.500" YPos="  -0.500" Name=""/>
+				<Electrode No="  18" Direction=" 270.00" XPos="  -1.500" YPos="  -1.000" Name=""/>
+			</Electrodes>
+			<AutoTchCondition LocationCond=" 15.00" LandAreaDiff=" 0.00"/>
+		</Part>
+	</Parts>
+	<Marks>
+		<Mark No="1">
+			<Mark_001 MarkName="1.0mm_CIRCLE_Au" Comment="" DatabaseNo="24" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Mark_011 MarkType="1" Shape="0" Exec="0" OutSize="   1.000"/>
+			<Mark_100 Surface="1" Threshold="168" Tolerance="30" SearchAreaX=" 4.50" SearchAreaY=" 4.50" Sequence="0"/>
+			<Mark_200 LightingOuter="2" LightingInner="2" LightingDrop="2" LightingIROuter="2" LightingIRInner="2" FilterInner="0" FilterOuter="0"/>
+		</Mark>
+		<Mark No="2">
+			<Mark_001 MarkName="BAD" Comment="Badmark_Schwarz" DatabaseNo="51" LibraryUse="0" LibraryFolder="0" LibraryPath=""/>
+			<Mark_050 MarkType="2" SearchAreaX=" 4.50" SearchAreaY=" 4.50"/>
+			<Mark_110 Surface="0" Threshold="100"/>
+			<Mark_201 LightingOuter="1" LightingInner="1" LightingDrop="1" LightingIROuter="1" LightingIRInner="1"/>
+		</Mark>
+	</Marks>
+	<CodeScan>
+		<CodeScanUse Pcb="1" Blk="1" Local="1"/>
+		<PcbCodeScan         X1="   0.000" Y1="   0.000" Mark1="  0" X2="   0.000" Y2="   0.000" Mark2="  0"/>
+		<BlkCodeScan         X1="   0.000" Y1="   0.000" Mark1="  0" X2="   0.000" Y2="   0.000" Mark2="  0"/>
+	</CodeScan>
+</Machine>
+</PcbDataFile>
